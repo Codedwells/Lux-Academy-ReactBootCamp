@@ -1,19 +1,19 @@
 # Lux-Academy-ReactBootCamp
 This repo contains all projects done while in the lux academy React bootcamp 2022
 
-# 1 ToDO app React
+# 1. [ToDO](https://github.com/Codedwells/React-ToDo-app) app React
 <h2 align="center">This is a <b>todo app</b> made using <b>ReactJs</b>.</h2><br>
 <p align="center">
 It highlights some of the concepts learned including props, useState <br>
  conditional rendering, components and their reusability.
 </p> <br>
 
-![Todo](public/Screenshot%20.png)
+![Todo](./project2-ContextAPI/public/screenshots/Screenshot1%20.png)
 
 ---
 <br>
 
-# 2 TaskManager React
+# 2. [TaskManager](project2-ContextAPI/) React
 
 <h2 align="center">This is a <b>Task Manager</b> made using <b>ReactJs</b>.</h2><br>
 <p align="center">
