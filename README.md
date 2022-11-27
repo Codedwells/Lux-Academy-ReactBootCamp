@@ -21,7 +21,7 @@ This project was done as we  learnt about the React Context API <br>
 The state in this app is managed using the Context API
 </p> <br>
 
-![Todo](public/Screenshot%20.png)
+![Todo](./project2-ContextAPI/public/screenshots/Screenshot2.png)
 
 ---
 <br>
