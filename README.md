@@ -1,4 +1,4 @@
-# Lux-Academy-ReactBootCamp
+# Lux-Academy-ReactBootCamp 2022
 This repo contains all projects done while in the lux academy React bootcamp 2022
 
 # 1. [ToDO](https://github.com/Codedwells/React-ToDo-app) app React
