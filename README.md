@@ -26,7 +26,7 @@ The state in this app is managed using the Context API
 ---
 <br>
 <p align="center">
-This is a project was done as an asignment for <a href="https://dev.to/luxacademy">Lux tech Academy</a> the React BootCamp 2022.
+All the projects were done for <a href="https://dev.to/luxacademy">Lux tech Academy</a> the React BootCamp 2022.
 </p>
 <br>
 <p align="center">
